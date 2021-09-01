@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and web dev
 - 🌱 I’m currently learning full stack
 - 💞️ I’m looking to collaborate on ...
-- 📫 Connect on Instagram @__mrkhan_._20
+- 📫 Connect on Instagram @_ _mrkhan_ ._20
 
 <!---
 mrkhan-20/mrkhan-20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
